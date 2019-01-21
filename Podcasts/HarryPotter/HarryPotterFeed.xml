@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Mon, 21 Jan 2019 03:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 16:48:52 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,34 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Harry Potter and the Prisoner of Azkaban</title>
+      <pubDate>Mon, 21 Jan 2019 16:45:44 +0000</pubDate>
+      <guid isPermaLink="false">0ae39f25-d81c-4840-9f9e-683ef2b74e3b</guid>
+      <link/>
+      <description>Read by Stephen Fry; Written by J.K. Rowling</description>
+      <content:encoded>Read by Stephen Fry; Written by J.K. Rowling</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PrisonerOfAzkaban.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/lhcl0j8nxtmxeoa/HarryPotterandthePhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Harry Potter and the Chamber of Secrets</title>
+      <pubDate>Mon, 21 Jan 2019 04:11:18 +0000</pubDate>
+      <guid isPermaLink="false">5359dccb-9820-45b6-ad92-26f0b7c59491</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Audiobook Read by Stephen Fry; Written by J.K. Rowling</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/ChamberOfSecrets.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/jrxwnuv926u9jli/HarryPotterandtheChamberofSecrets.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Harry Potter and the Philosopher's Stone</title>
       <pubDate>Sun, 20 Jan 2019 22:24:28 +0000</pubDate>
