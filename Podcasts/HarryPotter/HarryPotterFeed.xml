@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Sun, 17 Feb 2019 02:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2019 00:46:45 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Half Blood Prince</title>
+      <pubDate>Fri, 15 Mar 2019 23:58:37 +0000</pubDate>
+      <guid isPermaLink="false">2ad0ea81-f32d-43a6-963a-0002bc9d5f6a</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/HalfBloodPrince.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/24gpirh9x1mcvin/HalfBloodPrince.m4a?dl=1" length="" type="audio/x-m4a"/>
+    </item>
     <item>
       <title>Order of the Phoenix</title>
       <pubDate>Sun, 17 Feb 2019 02:17:49 +0000</pubDate>
