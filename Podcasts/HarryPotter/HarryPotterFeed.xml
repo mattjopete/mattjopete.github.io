@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Sat, 16 Mar 2019 00:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 20:56:31 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Deathly Hallows</title>
+      <pubDate>Fri, 22 Mar 2019 20:52:28 +0000</pubDate>
+      <guid isPermaLink="false">47301191-877f-4c59-bd0f-a1622c20fe40</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/DeathlyHallows.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/50evpelz7ersjxy/DeathlyHallows.m4a?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Half Blood Prince</title>
       <pubDate>Fri, 15 Mar 2019 23:58:37 +0000</pubDate>
