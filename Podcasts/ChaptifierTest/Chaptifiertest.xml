@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+  <channel>
+    <title>ChaptifierTest</title>
+    <link>https://mattjopete.github.io</link>
+    <description>Test for the Chaptifier Windows App</description>
+    <copyright/>
+    <lastBuildDate>Sun, 29 Mar 2020 00:44:04 +0000</lastBuildDate>
+    <language>en-US</language>
+    <itunes:author>Matt Peterein</itunes:author>
+    <itunes:block>No</itunes:block>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords/>
+    <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-parge.png"/>
+    <itunes:owner>
+      <itunes:email>matthewpeterein@gmail.com</itunes:email>
+      <itunes:name>Matt Peterein</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <item>
+      <title>Launched-8</title>
+      <pubDate>Sat, 28 Mar 2020 18:44:00 -0500</pubDate>
+      <guid isPermaLink="false">abb84b69-8e8c-48d4-a067-be6d6ac798ea</guid>
+      <link/>
+      <description>trucksrfun</description>
+      <content:encoded>trucksrfun</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>subby title</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/8l02hvfytc9lnhz/matt-launched.mp3?dl=1" length="81:26" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
