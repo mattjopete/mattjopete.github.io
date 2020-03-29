@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Fri, 22 Mar 2019 20:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 06:59:37 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -113,10 +113,10 @@
       <content:encoded>Harry Potter and the Philosopher's Stone</content:encoded>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle/>
+      <itunes:subtitle>trucksrfun</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PhilosophersStone.jpg"/>
-      <enclosure url="https://www.dropbox.com/s/db2zh3ly2wccw5g/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/s/p0yd2m2m7ewm3ss/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
