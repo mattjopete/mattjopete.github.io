@@ -5,13 +5,13 @@
     <link>https://mattjopete.github.io</link>
     <description>Test for the Chaptifier Windows App</description>
     <copyright/>
-    <lastBuildDate>Sun, 29 Mar 2020 00:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 05:02:02 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Matt Peterein</itunes:author>
     <itunes:block>No</itunes:block>
     <itunes:explicit>No</itunes:explicit>
     <itunes:keywords/>
-    <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-parge.png"/>
+    <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
     <itunes:owner>
       <itunes:email>matthewpeterein@gmail.com</itunes:email>
       <itunes:name>Matt Peterein</itunes:name>
@@ -20,6 +20,20 @@
       <itunes:category text="Podcasting"/>
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>Charlie Launched 8</title>
+      <pubDate>Sun, 29 Mar 2020 04:56:23 +0000</pubDate>
+      <guid isPermaLink="false">33badabe-7292-45ea-9251-d6cb29589b1c</guid>
+      <link/>
+      <description>This is a description trucksrfun</description>
+      <content:encoded>This is a description trucksrfun</content:encoded>
+      <itunes:duration>1:21:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/rlqegi9bag9zzpf/launched-8.mp3?dl=1" length="1:21:26" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Launched-8</title>
       <pubDate>Sat, 28 Mar 2020 18:44:00 -0500</pubDate>
