@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Sun, 29 Mar 2020 06:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 20:42:37 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Philosophers Stone</title>
+      <pubDate>Sun, 29 Mar 2020 20:38:28 +0000</pubDate>
+      <guid isPermaLink="false">e5556123-d274-441f-9fdc-bbd0d7c550f3</guid>
+      <link/>
+      <description>Harry Potter and the Philosopher's Stone read by Stephen Fry, written by JK Rowling</description>
+      <content:encoded>Harry Potter and the Philosopher's Stone read by Stephen Fry, written by JK Rowling</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>trucksrfun</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PhilosophersStone.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/p0yd2m2m7ewm3ss/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Deathly Hallows</title>
       <pubDate>Fri, 22 Mar 2019 20:52:28 +0000</pubDate>
