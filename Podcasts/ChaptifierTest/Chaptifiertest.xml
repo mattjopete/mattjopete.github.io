@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Test for the Chaptifier Windows App</description>
     <copyright/>
-    <lastBuildDate>Tue, 31 Mar 2020 04:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 05:31:09 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Matt Peterein</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Podcasting"/>
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>I hope I saved it this time</title>
+      <pubDate>Tue, 31 Mar 2020 04:58:31 +0000</pubDate>
+      <guid isPermaLink="false">bdb9038c-d434-4346-9990-06d4b6df037b</guid>
+      <link/>
+      <description>ugh</description>
+      <content:encoded>ugh</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/vcket1ydi3lvw5m/HarryPotterAndThePhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>HP Test Episode 2</title>
       <pubDate>Tue, 31 Mar 2020 04:34:42 +0000</pubDate>
