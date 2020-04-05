@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Test for the Chaptifier Windows App</description>
     <copyright/>
-    <lastBuildDate>Tue, 31 Mar 2020 05:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 18:07:40 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Matt Peterein</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Podcasting"/>
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>HP Test Episode 3</title>
+      <pubDate>Sun, 05 Apr 2020 17:39:38 +0000</pubDate>
+      <guid isPermaLink="false">f83b1138-3427-4be2-9833-5cd1c5e0c7b6</guid>
+      <link/>
+      <description>Just two chapters</description>
+      <content:encoded>Just two chapters</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/i3yefczzmprocyw/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>I hope I saved it this time</title>
       <pubDate>Tue, 31 Mar 2020 04:58:31 +0000</pubDate>
@@ -61,34 +75,6 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
       <enclosure url="https://www.dropbox.com/s/b08b06pjnxkhy9u/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Charlie Launched 8</title>
-      <pubDate>Sun, 29 Mar 2020 04:56:23 +0000</pubDate>
-      <guid isPermaLink="false">33badabe-7292-45ea-9251-d6cb29589b1c</guid>
-      <link/>
-      <description>This is a description trucksrfun</description>
-      <content:encoded>This is a description trucksrfun</content:encoded>
-      <itunes:duration>1:21:26</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle/>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
-      <enclosure url="https://www.dropbox.com/s/rlqegi9bag9zzpf/launched-8.mp3?dl=1" length="1:21:26" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Launched-8</title>
-      <pubDate>Sat, 28 Mar 2020 18:44:00 -0500</pubDate>
-      <guid isPermaLink="false">abb84b69-8e8c-48d4-a067-be6d6ac798ea</guid>
-      <link/>
-      <description>trucksrfun</description>
-      <content:encoded>trucksrfun</content:encoded>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>subby title</itunes:subtitle>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
-      <enclosure url="https://www.dropbox.com/s/8l02hvfytc9lnhz/matt-launched.mp3?dl=1" length="81:26" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
