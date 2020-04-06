@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Test for the Chaptifier Windows App</description>
     <copyright/>
-    <lastBuildDate>Mon, 06 Apr 2020 04:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 16:09:20 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Matt Peterein</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Podcasting"/>
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>HP Test Episode 6</title>
+      <pubDate>Mon, 06 Apr 2020 14:40:07 +0000</pubDate>
+      <guid isPermaLink="false">23e4c6b3-5a62-4919-ac0e-6ab392651ab7</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/ztbqptj5vz4ygz0/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>HP Test Episode 5</title>
       <pubDate>Mon, 06 Apr 2020 04:04:54 +0000</pubDate>
