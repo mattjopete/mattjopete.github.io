@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Sun, 29 Mar 2020 20:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 19:12:18 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -32,7 +32,7 @@
       <itunes:subtitle>trucksrfun</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PhilosophersStone.jpg"/>
-      <enclosure url="https://www.dropbox.com/s/p0yd2m2m7ewm3ss/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/s/dlgbwy36v5ye15t/PhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
     </item>
     <item>
       <title>Deathly Hallows</title>
