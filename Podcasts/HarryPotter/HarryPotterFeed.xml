@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Fri, 17 Apr 2020 02:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 04:38:43 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Prisoner of Azkaban</title>
+      <pubDate>Mon, 20 Apr 2020 04:38:17 +0000</pubDate>
+      <guid isPermaLink="false">c15b051c-0b97-4c73-a43b-2a3e785f82f3</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PrisonerOfAzkaban.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/7dw6wm2o0hm06zj/HarryPotterandthePrisonerofAzkaban.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Chamber of Secrets</title>
       <pubDate>Fri, 17 Apr 2020 02:04:18 +0000</pubDate>
@@ -103,20 +117,6 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/GobletOfFire.jpg"/>
       <enclosure url="https://www.dropbox.com/s/e67k4aeu9rsy3ma/GobletOfFire.mp3?dl=1" length="" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Prisoner of Azkaban</title>
-      <pubDate>Mon, 21 Jan 2019 16:45:44 +0000</pubDate>
-      <guid isPermaLink="false">0ae39f25-d81c-4840-9f9e-683ef2b74e3b</guid>
-      <link/>
-      <description>Read by Stephen Fry; Written by J.K. Rowling</description>
-      <content:encoded>Read by Stephen Fry; Written by J.K. Rowling</content:encoded>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle/>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/PrisonerOfAzkaban.jpg"/>
-      <enclosure url="https://www.dropbox.com/s/lhcl0j8nxtmxeoa/HarryPotterandthePhilosophersStone.mp3?dl=1" length="" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
