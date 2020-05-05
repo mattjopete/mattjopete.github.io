@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Harry Potter Audiobooks read by Stephen Fry.  Written by J.K. Rowling</description>
     <copyright/>
-    <lastBuildDate>Mon, 20 Apr 2020 04:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 05:19:39 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>J.K. Rowling</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,6 +20,20 @@
       <itunes:category text="Literature"/>
       <itunes:category text="Performing Arts"/>
     </itunes:category>
+    <item>
+      <title>Goblet of Fire</title>
+      <pubDate>Tue, 05 May 2020 05:16:15 +0000</pubDate>
+      <guid isPermaLink="false">f745baed-8e24-4981-bdf0-d30cb486f1ff</guid>
+      <link/>
+      <description/>
+      <content:encoded/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/GobletOfFire.jpg"/>
+      <enclosure url="https://www.dropbox.com/s/g4sli3phd1y00gz/GobletOfFire.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Prisoner of Azkaban</title>
       <pubDate>Mon, 20 Apr 2020 04:38:17 +0000</pubDate>
@@ -103,20 +117,6 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/OrderOfThePhoenix.jfif"/>
       <enclosure url="https://www.dropbox.com/s/4lyvj1el2qheodr/OrderOfThePhoenix.m4a?dl=1" length="" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Goblet of Fire</title>
-      <pubDate>Tue, 22 Jan 2019 16:58:41 +0000</pubDate>
-      <guid isPermaLink="false">a1e2919f-70f9-450a-8123-583ab2233f1e</guid>
-      <link/>
-      <description>Audiobook Read by Stephen Fry; Written by J.K. Rowling</description>
-      <content:encoded>Audiobook Read by Stephen Fry; Written by J.K. Rowling</content:encoded>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle/>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://mattjopete.github.io/Podcasts/HarryPotter/Images/GobletOfFire.jpg"/>
-      <enclosure url="https://www.dropbox.com/s/e67k4aeu9rsy3ma/GobletOfFire.mp3?dl=1" length="" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
