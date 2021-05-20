@@ -5,7 +5,7 @@
     <link>https://mattjopete.github.io</link>
     <description>Test for the Chaptifier Windows App</description>
     <copyright/>
-    <lastBuildDate>Wed, 19 May 2021 12:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 12:51:33 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Matt Peterein</itunes:author>
     <itunes:block>No</itunes:block>
@@ -20,11 +20,24 @@
       <itunes:category text="Podcasting"/>
       <itunes:category text="Software How-To"/>
     </itunes:category>
-    
+     <item>
+      <title>Test Episode for Customer</title>
+      <pubDate>Tue, 18 May 2021 19:39:38 +0000</pubDate>
+      <guid isPermaLink="false">f93b1139-3427-4be2-9833-5cd1c5e0c7b6</guid>
+      <link/>
+      <description>image test</description>
+      <content:encoded>Four chapters</content:encoded>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mattjopete.github.io/Podcasts/ChaptifierTest/Images/twitter-large.png"/>
+      <enclosure url="https://www.dropbox.com/s/oq0vvr2iju8fein/GOTY%20Avsnitt%2021%20-%20Bokh%C3%B6rnan%2C%20Resident%20Evil%20Village%2C%20The%20Mitchells%20vs.%20The%20Machines%20%26%20Jupiter%27s%20Legacy.mp3?dl=1" length="" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Test Episode for Cust</title>
-      <pubDate>Wed, 19 May 2021 17:39:38 +0000</pubDate>
-      <guid isPermaLink="false">f83b1139-3427-4be2-9833-5cd1c5e0c7b6</guid>
+      <pubDate>Mon, 17 May 2021 17:39:38 +0000</pubDate>
+      <guid isPermaLink="false">f83a1139-3427-4be2-9833-5cd1c5e0c7b6</guid>
       <link/>
       <description>image test</description>
       <content:encoded>Four chapters</content:encoded>
